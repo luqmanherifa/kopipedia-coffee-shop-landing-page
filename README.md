@@ -1,1 +1,1 @@
-# Kopipedia - Halaman Depan Toko Kopi
+# Kopipedia: Halaman Depan Toko Kopi
