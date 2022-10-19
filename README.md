@@ -1,1 +1,1 @@
-# Kopipedia: Halaman Depan Toko Kopi
+# Kopipedia: Coffee Shop Landing Page
